@@ -1,0 +1,1 @@
+be rails generate controller home index  --no-helper --no-assets --no-controller-specs --no-view-specs
